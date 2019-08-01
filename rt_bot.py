@@ -53,7 +53,7 @@ sleep(2)
 #?> Starting search loop
 print("[I] Starting check loop...")
 
-sleep(5);
+sleep(5)
 
 while 1:
     for keyword in bot_keywords:
